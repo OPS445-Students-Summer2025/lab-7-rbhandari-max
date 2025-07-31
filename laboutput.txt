@@ -86,7 +86,7 @@ test_b2_run (__main__.lab7i.test_b2_run)
 [Lab 7] - [Investigation 3] - [Part 3] - Global scope - Test for correct output: ./lab7i.py ... ok
 
 ----------------------------------------------------------------------
-Ran 43 tests in 0.031s
+Ran 43 tests in 0.032s
 
 OK
 OPS445 Lab Report - System Information for running ./CheckLab7.py
@@ -97,5 +97,5 @@ OPS445 Lab Report - System Information for running ./CheckLab7.py
     Python version: 3123
     OS Platform: linux
     Working Directory: /home/rbhandari17/ops445/lab7/lab-7-rbhandari-max
-    Start at: Thu Jul 17 12:14:44 2025
+    Start at: Thu Jul 31 12:05:49 2025
 =================================================================
